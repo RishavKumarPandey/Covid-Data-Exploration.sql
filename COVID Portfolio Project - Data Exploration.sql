@@ -1,7 +1,9 @@
 /*
 Covid 19 Data Exploration 
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+First of all I have dataset name Covid-data and I have created two datasets called coviddeaths and covidvacination in excell to simplyfy the project
+
+Skills  which I will use: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 */
 
